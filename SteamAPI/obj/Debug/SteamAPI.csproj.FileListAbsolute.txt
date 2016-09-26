@@ -5,6 +5,19 @@ C:\Visual Studio 2013\Projects\SteamAPI\SteamAPI\bin\Debug\Newtonsoft.Json.dll
 C:\Visual Studio 2013\Projects\SteamAPI\SteamAPI\bin\Debug\Newtonsoft.Json.xml
 C:\Visual Studio 2013\Projects\SteamAPI\SteamAPI\obj\Debug\SteamAPI.exe
 C:\Visual Studio 2013\Projects\SteamAPI\SteamAPI\obj\Debug\SteamAPI.pdb
-C:\Users\Muhammed\Desktop\SteamAPI\SteamAPI\bin\Debug\SteamAPI.exe.config
-C:\Users\Muhammed\Desktop\SteamAPI\SteamAPI\obj\Debug\SteamAPI.exe
-C:\Users\Muhammed\Desktop\SteamAPI\SteamAPI\obj\Debug\SteamAPI.pdb
+\\Mac\Home\Desktop\SteamAPI\SteamAPI\bin\Debug\SteamAPI.exe.config
+\\Mac\Home\Desktop\SteamAPI\SteamAPI\obj\Debug\SteamAPI.exe
+\\Mac\Home\Desktop\SteamAPI\SteamAPI\obj\Debug\SteamAPI.pdb
+\\Mac\Home\Desktop\SteamAPI\SteamAPI\bin\Debug\SteamAPI.exe
+\\Mac\Home\Desktop\SteamAPI\SteamAPI\bin\Debug\SteamAPI.pdb
+\\Mac\Home\Desktop\SteamAPI\SteamAPI\bin\Debug\Newtonsoft.Json.dll
+\\Mac\Home\Desktop\SteamAPI\SteamAPI\bin\Debug\protobuf-net.dll
+\\Mac\Home\Desktop\SteamAPI\SteamAPI\bin\Debug\SteamKit2.dll
+\\Mac\Home\Desktop\SteamAPI\SteamAPI\bin\Debug\Newtonsoft.Json.xml
+\\Mac\Home\Desktop\SteamAPI\SteamAPI\bin\Debug\protobuf-net.pdb
+\\Mac\Home\Desktop\SteamAPI\SteamAPI\bin\Debug\protobuf-net.xml
+\\Mac\Home\Desktop\SteamAPI\SteamAPI\bin\Debug\SteamKit2.xml
+\\Mac\Home\Desktop\SteamAPI\SteamAPI\obj\Debug\SteamAPI.csprojResolveAssemblyReference.cache
+\\Mac\Home\Desktop\SteamAPI\SteamAPI\bin\Debug\HtmlAgilityPack.dll
+\\Mac\Home\Desktop\SteamAPI\SteamAPI\bin\Debug\HtmlAgilityPack.pdb
+\\Mac\Home\Desktop\SteamAPI\SteamAPI\bin\Debug\HtmlAgilityPack.xml

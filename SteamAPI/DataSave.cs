@@ -26,7 +26,7 @@ namespace SteamAPI
             System.Xml.Serialization.XmlSerializer writer =
                 new System.Xml.Serialization.XmlSerializer(class_type);
 
-            var path = Environment.GetFolderPath(Environment.SpecialFolder.MyDocuments) + "//SerializationOverview.xml";
+            var path = Environment.GetFolderPath(Environment.SpecialFolder.MyDocuments) + "//"+class_type+".xml";
             System.IO.FileStream file = System.IO.File.Create(path);
             foreach (var item in obj)
             {

@@ -156,9 +156,9 @@ namespace SteamAPI
         /// </summary>
         /// <param name="steamid"></param>
         /// <returns></returns>
-        public List<SteamAPISession.Game> GetOwnedGames(string steamid)
+        public List<SteamAPISession.Game> GetOwnedGames(string steamid, string include_appinfo)
         {
-            string response = steamRequest("IPlayerService/GetOwnedGames/v0001/?key=" + ConfigurationManager.AppSettings["steamkey"] + "&steamid=" + steamid + "&format=json");
+            string response = steamRequest("IPlayerService/GetOwnedGames/v0001/?key=" + ConfigurationManager.AppSettings["steamkey"] + "&steamid=" + steamid + "&include_appinfo=" +steamid +"&format=json");
             if (response != null)
             {
                 JObject parsed = JObject.Parse(response);
@@ -173,6 +173,7 @@ namespace SteamAPI
 
                         game.gameid = (string)info["appid"];
                         game.playtime_forever = (string)info["playtime_forever"];
+                        game.gamename = (string)info["name"]; //SON Degisiklik
                         games.Add(game);
                     }
 

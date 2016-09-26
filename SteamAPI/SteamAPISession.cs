@@ -131,7 +131,12 @@ namespace SteamWebAPI
             public String locationCountryCode;
             public String locationStateCode;
             public int locationCityId;
+            public String include_appinfo;
+            public int totalPlayTime;
+           
         }
+
+       
 
         /// <summary>
         /// Basic group info.

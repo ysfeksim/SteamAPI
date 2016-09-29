@@ -1,0 +1,325 @@
+492|Indie
+19|Action
+21|Adventure
+9|Strategy
+597|Casual
+122|RPG
+599|Simulation
+113|Free to Play
+4182|Singleplayer
+128|Massively Multiplayer
+701|Sports
+3859|Multiplayer
+699|Racing
+1756|Great Soundtrack
+4166|Atmospheric
+1664|Puzzle
+1695|Open World
+1667|Horror
+1685|Co-op
+3942|Sci-fi
+3871|2D
+1774|Shooter
+1684|Fantasy
+4085|Anime
+1742|Story Rich
+1663|FPS
+1625|Platformer
+3839|First-Person
+7208|Female Protagonist
+4026|Difficult
+4136|Funny
+3810|Sandbox
+1719|Comedy
+3964|Pixel Graphics
+1662|Survival
+87|Utilities
+1693|Classic
+1698|Point & Click
+1697|Third Person
+84|Design & Illustration
+1677|Turn-Based
+5350|Family Friendly
+1773|Arcade
+1659|Zombies
+4004|Retro
+1027|Audio Production
+1755|Space
+3843|Online Co-Op
+3834|Exploration
+21978|VR
+4345|Gore
+7481|Controller
+4700|Movie
+1708|Tactical
+3799|Visual Novel
+6650|Nudity
+3841|Local Co-Op
+1036|Education
+872|Animation & Modeling
+4726|Cute
+4231|Action RPG
+7368|Local Multiplayer
+4255|Shoot 'Em Up
+1721|Psychological Horror
+4175|Realistic
+1716|Rogue-like
+1676|RTS
+1687|Stealth
+3968|Physics
+1741|Turn-Based Strategy
+5900|Walking Simulator
+3978|Survival Horror
+4711|Replay Value
+10397|Memes
+3987|Historical
+1643|Building
+4342|Dark
+3814|Third-Person Shooter
+1702|Crafting
+1669|Moddable
+5716|Mystery
+1738|Hidden Object
+1646|Hack and Slash
+5577|RPGMaker
+4234|Short
+784|Video Production
+1734|Fast-Paced
+5611|Mature
+1775|PvP
+1678|War
+5537|Puzzle-Platformer
+3835|Post-apocalyptic
+4106|Action-Adventure
+1743|Fighting
+1754|MMORPG
+1645|Tower Defense
+1038|Web Publishing
+3798|Side Scroller
+7478|Illuminati
+12472|Management
+1621|Music
+4150|World War II
+1445|Software Training
+4434|JRPG
+4747|Character Customization
+4885|Bullet Hell
+3878|Competitive
+4158|Beat 'em up
+4791|Top-Down
+9551|Dating Sim
+4172|Medieval
+4305|Colorful
+4168|Military
+1720|Dungeon Crawler
+5125|Procedural Generation
+5851|Isometric
+6378|Crime
+4295|Futuristic
+4115|Cyberpunk
+4604|Dark Fantasy
+10695|Party-Based RPG
+4840|4 Player Local
+5752|Robots
+4036|Parkour
+1654|Relaxing
+8013|Software
+4667|Violent
+5711|Team-Based
+1644|Driving
+3959|Rogue-lite
+1616|Trains
+5984|Drama
+6426|Choices Matter
+1673|Aliens
+1628|Metroidvania
+4328|City Builder
+4364|Grand Strategy
+4947|Romance
+4057|Magic
+8075|TrackIR
+1718|MOBA
+1666|Card Game
+7332|Base-Building
+1777|Steampunk
+8122|Level Editor
+4064|Thriller
+29363|3D Vision
+13906|Game Development
+1759|Perma Death
+5153|Kickstarter
+4486|Choose Your Own Adventure
+15045|Flight
+5923|Dark Humor
+5228|Blood
+1770|Board Game
+1710|Surreal
+4758|Twin Stick Shooter
+4325|Turn-Based Combat
+6971|Multiple Endings
+1670|4X
+6691|1990's
+5348|Mod
+5613|Detective
+14139|Turn-Based Tactics
+5395|3D Platformer
+5708|Remake
+4695|Economy
+4236|Loot
+4637|Top-Down Shooter
+809|Photo Editing
+5363|Destruction
+7782|Cult Classic
+4242|Episodic
+5547|Arena Shooter
+6730|PvE
+4252|Stylized
+5030|Dystopian
+25085|Touch-Friendly
+13782|Experimental
+16598|Space Sim
+7107|Real-Time with Pause
+8945|Resource Management
+4195|Cartoony
+4094|Minimalist
+9541|Demons
+11014|Interactive Fiction
+4046|Dragons
+4975|2.5D
+4821|Mechs
+7743|1980s
+1665|Match 3
+7432|Lovecraftian
+15339|Documentary
+7948|Soundtrack
+4684|Wargame
+1688|Ninja
+1681|Pirates
+1671|Superhero
+6052|Noir
+10816|Split Screen
+4736|2D Fighter
+5160|Dinosaurs
+1752|Rhythm
+7250|Linear
+6815|Hand-drawn
+5310|Games Workshop
+1732|Voxel
+4376|Assassin
+5502|Hacking
+4562|Cartoon
+5186|Psychological
+1751|Comic Book
+4161|Real-Time
+1649|GameMaker
+17305|Strategy RPG
+5055|e-sports
+4559|Quick-Time Events
+4598|Alternate History
+4400|Abstract
+4145|Cinematic
+13276|Tanks
+31579|Otome
+10808|Supernatural
+12057|Tutorial
+9564|Hunting
+9271|Trading Card Game
+3796|Based On A Novel
+13190|America
+4018|Vampire
+1647|Western
+1717|Hex Grid
+5765|Gun Customization
+5300|God Game
+4474|CRPG
+7113|Crowdfunded
+6910|Naval
+1714|Psychedelic
+1651|Satire
+150626|Gaming
+21725|Tactical RPG
+3952|Gothic
+4202|Trading
+1680|Heist
+12095|Sexual Content
+4878|Parody
+7226|Football
+5794|Science
+1736|LEGO
+10679|Time Travel
+5382|World War I
+18594|FMV
+5154|Score Attack
+4754|Politics
+12286|Warhammer 40K
+6621|Pinball
+4155|Class-Based
+5179|Cold War
+11333|Villain Protagonist
+4508|Co-op Campaign
+1679|Soccer
+3955|Character Action Game
+3813|Real Time Tactics
+4853|Political
+5094|Narration
+1735|Star Wars
+3854|Lore-Rich
+4608|Swordplay
+11123|Mouse only
+19995|Dark Comedy
+379975|Clicker
+8666|Runner
+9157|Underwater
+6915|Martial Arts
+1694|Batman
+22602|Agriculture
+7569|Grid-Based Movement
+7423|Sniper
+348922|Steam Machine
+5796|Bullet Time
+5673|Modern
+6948|Rome
+6276|Inventory Management
+17015|Werewolves
+15954|Silent Protagonist
+56690|On-Rails Shooter
+7622|Offroad
+5407|Benchmark
+5432|Programming
+4835|6DOF
+5372|Conspiracy
+4777|Spectacle fighter
+6625|Time Manipulation
+17770|Asynchronous Multiplayer
+603297|Hardware
+5981|Mining
+8253|Music-Based Procedural Generation
+4184|Chess
+6041|Horses
+6702|Mars
+16094|Mythology
+15564|Fishing
+1674|Typing
+5390|Time Attack
+1746|Basketball
+9592|Dynamic Narration
+16250|Gambling
+233824|Feature Film
+24003|Word Game
+21722|Lara Croft
+6310|Diplomacy
+4845|Capitalism
+17337|Lemmings
+7038|Golf
+6869|Nonlinear
+13577|Sailing
+134316|Philisophical
+198631|Mystery Dungeon
+4137|Transhumanism
+1730|Sokoban
+7328|Bowling
+22955|Mini Golf
+17927|Pool
+51306|Foreign
+71389|Spelling
+21006|Underground
